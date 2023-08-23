@@ -59,6 +59,7 @@ li {
 .attr img {
     float: right;
     width: 50%;
+    padding: 3%;
 }
 .toerist {
     background-color: darkcyan;
